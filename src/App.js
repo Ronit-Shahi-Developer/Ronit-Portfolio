@@ -1,35 +1,34 @@
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Navbar from "./components/Navbar";
-import Header from "./components/Header";
-import Particles from "react-particles-js";
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route
+} from "react-router-dom";
+
+import Profilepage from "./components/screen/Profilepage";
+import HomePage from "./components/screen/HomePage";
+import ExperiencePage from "./components/screen/ExperiencePage";
 
 function App() {
   return (
     <>
-      <Particles
-        className="partical-canvas"
-        params={{
-          particles: {
-            number: {
-              value: 30,
-              density: {
-                enable: true,
-                value_area: 900,
-              },
-            },
-            shape: {
-              type: "circle",
-              stroke: {
-                width: 6,
-                color: "#f9ab00",
-              },
-            },
-          },
-        }}
-      />
-      <Navbar />
-      <Header />
+      <Router>
+     <Navbar />
+      
+      <main>
+        <Switch>
+          <Route exact path="/" component={HomePage} />
+          <Route exact path="/experience" component={ExperiencePage} />
+          <Route exact path="/Profilepage" component={Profilepage} />
+          {/* <Route exact path="/product/:id" component={ProductScreen} />
+          <Route exact path="/cart" component={CartScreen} /> */}
+        </Switch>
+      </main>
+     
+    </Router>
+      
     </>
   );
 }
