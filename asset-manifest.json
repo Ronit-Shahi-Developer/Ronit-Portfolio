@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/Ronit-Portfolio/static/css/main.d06bb662.chunk.css",
-    "main.js": "/Ronit-Portfolio/static/js/main.b16fb60d.chunk.js",
-    "main.js.map": "/Ronit-Portfolio/static/js/main.b16fb60d.chunk.js.map",
+    "main.css": "/Ronit-Portfolio/static/css/main.2aa66ae9.chunk.css",
+    "main.js": "/Ronit-Portfolio/static/js/main.d1859226.chunk.js",
+    "main.js.map": "/Ronit-Portfolio/static/js/main.d1859226.chunk.js.map",
     "runtime-main.js": "/Ronit-Portfolio/static/js/runtime-main.a3665e92.js",
     "runtime-main.js.map": "/Ronit-Portfolio/static/js/runtime-main.a3665e92.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/Ronit-Portfolio/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.058353b9.chunk.js": "/Ronit-Portfolio/static/js/2.058353b9.chunk.js",
-    "static/js/2.058353b9.chunk.js.map": "/Ronit-Portfolio/static/js/2.058353b9.chunk.js.map",
+    "static/js/2.fce97eed.chunk.js": "/Ronit-Portfolio/static/js/2.fce97eed.chunk.js",
+    "static/js/2.fce97eed.chunk.js.map": "/Ronit-Portfolio/static/js/2.fce97eed.chunk.js.map",
     "static/js/3.4b9a1c4d.chunk.js": "/Ronit-Portfolio/static/js/3.4b9a1c4d.chunk.js",
     "static/js/3.4b9a1c4d.chunk.js.map": "/Ronit-Portfolio/static/js/3.4b9a1c4d.chunk.js.map",
     "index.html": "/Ronit-Portfolio/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/Ronit-Portfolio/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.d06bb662.chunk.css.map": "/Ronit-Portfolio/static/css/main.d06bb662.chunk.css.map",
-    "static/js/2.058353b9.chunk.js.LICENSE.txt": "/Ronit-Portfolio/static/js/2.058353b9.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Ronit-Portfolio/static/media/background.24a1f6ba.jpg"
+    "static/css/main.2aa66ae9.chunk.css.map": "/Ronit-Portfolio/static/css/main.2aa66ae9.chunk.css.map",
+    "static/js/2.fce97eed.chunk.js.LICENSE.txt": "/Ronit-Portfolio/static/js/2.fce97eed.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Ronit-Portfolio/static/media/background.24a1f6ba.jpg",
+    "static/media/edu.cf319bfc.png": "/Ronit-Portfolio/static/media/edu.cf319bfc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a3665e92.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.058353b9.chunk.js",
-    "static/css/main.d06bb662.chunk.css",
-    "static/js/main.b16fb60d.chunk.js"
+    "static/js/2.fce97eed.chunk.js",
+    "static/css/main.2aa66ae9.chunk.css",
+    "static/js/main.d1859226.chunk.js"
   ]
 }
