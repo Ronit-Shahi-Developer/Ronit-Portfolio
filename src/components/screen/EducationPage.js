@@ -1,14 +1,15 @@
-import React from "react";
+import React from 'react'
+import edu from '../../edu.png'
 
-const ExperiencePage = () => {
-  return (
-    <div>
+const EducationPage = () => {
+    return (
+        <div>
       <section className="section gray-bg" id="resume">
         <div className="container">
           <div className="row">
             <div className="col-lg-6">
               <div className="section-title">
-                <h2>Experience</h2>
+                <h2>Education</h2>
               </div>
             </div>
           </div>
@@ -58,42 +59,18 @@ const ExperiencePage = () => {
               </div>
             </div>
             <div className="col-lg-6 m-15px-tb">
-              <div className="resume-box">
-                <ul>
-                  <li>
-                    <div className="icon">
-                      <i className="fas fa-briefcase"></i>
-                    </div>
-                    <span className="time">01/2021 - Present</span>
-                    <h5>BAKER HAND - Sonoma Bakery </h5>
-                    <p>
-                      - Dusting <br />
-                      - Folding <br />
-                      - Making Kush <br />
-                      - Basketing <br />
-                      - Tipping and operating rheon machine
-                    </p>
-                  </li>
-                  <li>
-                    <div className="icon">
-                      <i className="fas fa-briefcase"></i>
-                    </div>
-                    <span className="time">2018 - 07/2021</span>
-                    <h5>CAFE ALL ROUNDER - Cassandra's on the Park</h5>
-                    <p>
-                    - Taking orders, serving, food preparation, making smoothies.
-
-                    </p>
-                  </li>
+              {/* <div className="resume-box"> */}
+                
                  
-                </ul>
-              </div>
+                <img src ={edu} width="100%"  />
+              {/* </div> */}
             </div>
           </div>
         </div>
       </section>
     </div>
-  );
-};
+    )
+}
 
-export default ExperiencePage;
+export default EducationPage
+

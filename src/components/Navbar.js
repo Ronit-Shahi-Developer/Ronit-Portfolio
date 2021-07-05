@@ -9,7 +9,7 @@ import { faBars } from "@fortawesome/free-solid-svg-icons"
 
 const Navbar = () => {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-dark">
+    <nav className="navbar navbar-fixed-top sticky-top navbar-expand-lg navbar-light bg-dark ">
       <div className="container">
 
       <a className="navbar-brand" href="#">
@@ -41,17 +41,19 @@ const Navbar = () => {
             </li>
             
             <li className="nav-item active">
-              <Link to='/experience' className="nav-link" href="#">
+              <Link to='/experience' className="nav-link" >
               Experience{" "}
             </Link>
             </li>
 
-
             <li className="nav-item active">
-            <a className="nav-link" href="#">
-              how work{" "}
-            </a>
-          </li>
+              <Link to='/edu' className="nav-link">
+              Education{" "}
+            </Link>
+            </li>
+
+
+            
 
 
           <li className="nav-item">

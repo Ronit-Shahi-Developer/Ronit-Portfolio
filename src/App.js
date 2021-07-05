@@ -10,6 +10,7 @@ import {
 import Profilepage from "./components/screen/Profilepage";
 import HomePage from "./components/screen/HomePage";
 import ExperiencePage from "./components/screen/ExperiencePage";
+import EducationPage from "./components/screen/EducationPage";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
           <Route exact path="/" component={HomePage} />
           <Route exact path="/experience" component={ExperiencePage} />
           <Route exact path="/Profilepage" component={Profilepage} />
+          <Route exact path="/edu" component={EducationPage} />
           {/* <Route exact path="/product/:id" component={ProductScreen} />
           <Route exact path="/cart" component={CartScreen} /> */}
         </Switch>
