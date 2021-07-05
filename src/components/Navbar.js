@@ -1,5 +1,7 @@
 import React from "react";
 import logo from "../logo.png";
+import { Link } from "react-router-dom";
+
 // for react font
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars } from "@fortawesome/free-solid-svg-icons"
@@ -7,7 +9,7 @@ import { faBars } from "@fortawesome/free-solid-svg-icons"
 
 const Navbar = () => {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-dark">
+    <nav className="navbar navbar-fixed-top sticky-top navbar-expand-lg navbar-light bg-dark ">
       <div className="container">
 
       <a className="navbar-brand" href="#">
@@ -28,28 +30,30 @@ const Navbar = () => {
       <div className="collapse navbar-collapse" id="navbarSupportedContent">
         <ul className="navbar-nav ml-auto">
           <li className="nav-item active">
-            <a className="nav-link" href="#">
+            <Link to="/" className="nav-link" >
               Home{" "}
-            </a>
+            </Link>
             </li>
             <li className="nav-item active">
-            <a className="nav-link" href="#">
+            <Link to='/Profilepage' className="nav-link" >
               About me{" "}
-            </a> 
+            </Link> 
             </li>
             
             <li className="nav-item active">
-              <a className="nav-link" href="#">
-              Services{" "}
-            </a>
+              <Link to='/experience' className="nav-link" >
+              Experience{" "}
+            </Link>
+            </li>
+
+            <li className="nav-item active">
+              <Link to='/edu' className="nav-link">
+              Education{" "}
+            </Link>
             </li>
 
 
-            <li className="nav-item active">
-            <a className="nav-link" href="#">
-              how work{" "}
-            </a>
-          </li>
+            
 
 
           <li className="nav-item">
