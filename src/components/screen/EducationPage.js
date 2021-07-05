@@ -21,38 +21,27 @@ const EducationPage = () => {
                     <div className="icon">
                       <i className="fas fa-user-graduate"></i>
                     </div>
-                    <span className="time">09/2017 - 05/2018</span>
-                    <h5>LARAVEL DEVELOPER - Applopers Pvt. Ltd</h5>
+                    <span className="time">07/2018 - 07/2020</span>
+                    <h5>Master of Information Systems - CQUniversity</h5>
+
                     <p>
-                      - Design and development of client and server database
-                      applications.
-                      <br />
-                      - Maintained and updated HTML/CSS templates on a regular
-                      basis and as required. <br />
-                      - Assisted in planning and implementing dynamic and online
-                      electronic commerce applications. <br />
-                      - Conducted layout design and construction for a variety
-                      of websites as assigned.
-                      <br /> - One of the site that I worked/assisted on :
-                      https://www.babyshopnepal.com/
+                        <strong>- Key areas:
+                             
+                            </strong><br />
+                            Software design and development, Mobile applicattion development, Project Management, mobile game development, Database design and development
+
                     </p>
                   </li>
                   <li>
                     <div className="icon">
                       <i className="fas fa-user-graduate"></i>
                     </div>
-                    <span className="time">06/2017 - 08/2017</span>
-                    <h5>WEB DEVELOPER INTERN - E-Prabidhi Pvt. Ltd</h5>
+                    <span className="time">08/2013 - 11/2017</span>
+                    <h5>Bachelor in Information
+MANAGEMENT - NCCS</h5>
                     <p>
-                      <br />
-                      - Assisted in the development of eCommerce website
-                      catering to different customers
-                      <br /> - Developed user interface and improved website
-                      usability
-                      <br /> - Supported in the development of cart-system,
-                      multi-authentication, search filters, user login, and
-                      registration.
-                      <br /> - Used Laravel framework to built the system.
+                        <strong>- Key areas:</strong><br />
+                    Operating System, Computer hardware and Software, C++, Java, PHP, ASP.NET and Python
                     </p>
                   </li>
                 </ul>
