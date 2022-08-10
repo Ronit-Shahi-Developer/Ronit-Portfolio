@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Ronit-Portfolio/static/css/main.17b719b7.chunk.css",
-    "main.js": "/Ronit-Portfolio/static/js/main.519d5fa5.chunk.js",
-    "main.js.map": "/Ronit-Portfolio/static/js/main.519d5fa5.chunk.js.map",
-    "runtime-main.js": "/Ronit-Portfolio/static/js/runtime-main.a3665e92.js",
-    "runtime-main.js.map": "/Ronit-Portfolio/static/js/runtime-main.a3665e92.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/Ronit-Portfolio/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.2893c0e2.chunk.js": "/Ronit-Portfolio/static/js/2.2893c0e2.chunk.js",
-    "static/js/2.2893c0e2.chunk.js.map": "/Ronit-Portfolio/static/js/2.2893c0e2.chunk.js.map",
-    "static/js/3.4b9a1c4d.chunk.js": "/Ronit-Portfolio/static/js/3.4b9a1c4d.chunk.js",
-    "static/js/3.4b9a1c4d.chunk.js.map": "/Ronit-Portfolio/static/js/3.4b9a1c4d.chunk.js.map",
-    "index.html": "/Ronit-Portfolio/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/Ronit-Portfolio/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.17b719b7.chunk.css.map": "/Ronit-Portfolio/static/css/main.17b719b7.chunk.css.map",
-    "static/js/2.2893c0e2.chunk.js.LICENSE.txt": "/Ronit-Portfolio/static/js/2.2893c0e2.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Ronit-Portfolio/static/media/background.24a1f6ba.jpg",
-    "static/media/edu.cf319bfc.png": "/Ronit-Portfolio/static/media/edu.cf319bfc.png",
-    "static/media/movier.cae1f0d4.PNG": "/Ronit-Portfolio/static/media/movier.cae1f0d4.PNG"
+    "main.css": "/static/css/main.476f1644.chunk.css",
+    "main.js": "/static/js/main.f641d91d.chunk.js",
+    "main.js.map": "/static/js/main.f641d91d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f11c2356.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f11c2356.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.2893c0e2.chunk.js": "/static/js/2.2893c0e2.chunk.js",
+    "static/js/2.2893c0e2.chunk.js.map": "/static/js/2.2893c0e2.chunk.js.map",
+    "static/js/3.4b9a1c4d.chunk.js": "/static/js/3.4b9a1c4d.chunk.js",
+    "static/js/3.4b9a1c4d.chunk.js.map": "/static/js/3.4b9a1c4d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.476f1644.chunk.css.map": "/static/css/main.476f1644.chunk.css.map",
+    "static/js/2.2893c0e2.chunk.js.LICENSE.txt": "/static/js/2.2893c0e2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/background.24a1f6ba.jpg",
+    "static/media/edu.cf319bfc.png": "/static/media/edu.cf319bfc.png",
+    "static/media/movier.cae1f0d4.PNG": "/static/media/movier.cae1f0d4.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.a3665e92.js",
+    "static/js/runtime-main.f11c2356.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.2893c0e2.chunk.js",
-    "static/css/main.17b719b7.chunk.css",
-    "static/js/main.519d5fa5.chunk.js"
+    "static/css/main.476f1644.chunk.css",
+    "static/js/main.f641d91d.chunk.js"
   ]
 }
