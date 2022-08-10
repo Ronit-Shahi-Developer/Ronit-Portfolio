@@ -68,6 +68,11 @@ const Navbar = () => {
               </Link>
             </li>
 
+            <li className="nav-item active">
+              <Link to="/" className="nav-link">
+                Messiah{" "}
+              </Link>
+            </li>
             
           </ul>
         </div>
