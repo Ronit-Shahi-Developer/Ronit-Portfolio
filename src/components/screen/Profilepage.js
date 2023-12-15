@@ -31,19 +31,22 @@ const Profilepage = () => {
                         Full Stack Developer
                       </p>
                       <p className="text-muted font-size-sm">
-                        3/34 Dartbrook Rd, Auburn, NSW, 2144
+                       54b Silkes Road, Paradise, SA, 5075
                       </p>
                       {/* <button className="btn btn-primary">Follow</button> */}
+              <Link to="/portfolio" className="nav-link">
+                      
                       <button className="btn btn-outline-primary">
                         My Portfolio
                       </button>
+                      </Link>
                     </div>
                   </div>
                   <hr className="my-4" />
                   <ul className="list-group list-group-flush">
                     <li className="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                       <h6 className="mb-0">
-                          <Link target='_blank' to={{pathname: "https://ronit-shahi-developer.github.io/Ronit-Portfolio/"}}>
+                          <Link target='_blank' to={{pathname: "https://ronit-shahi-developer.github.io/Ronit-Portfolio"}}>
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
                           width="24"
@@ -59,8 +62,8 @@ const Profilepage = () => {
                           <circle cx="12" cy="12" r="10"></circle>
                           <line x1="2" y1="12" x2="22" y2="12"></line>
                           <span class="iconify" data-icon="whh:website" data-inline="false"></span>                        </svg>
-                        </Link>
                         Website
+                        </Link>
                       </h6>
                       {/* <span className="text-secondary">https://bootdey.com</span> */}
                     </li>
@@ -237,7 +240,7 @@ const Profilepage = () => {
                       <input
                         type="text"
                         className="form-control"
-                        value="3/34 Dartbrook Rd, Auburn, NSW"
+                        value="54b Silkes Road, Paradise, SA, 5075"
                       />
                     </div>
                   </div>
@@ -269,8 +272,7 @@ const Profilepage = () => {
 								<div className="card-body">
                                 <h5 className="d-flex align-items-center mb-3">About me,</h5>
 
-<p>I am 25 year old guy from Nepal. I recently completed my Masters in Information Syaytem from Central Queensland University, Sydney. I believe in the power of computer technology as a means to make a positive impact in the world and 
-    hope to make a significant contribution to the greater good of humanity one day through my endeavours as a software developer.</p>
+<p>A highly organized enthusiastic programmer who embraces the idea of lifelong learning. Effectively prioritized the task using critical thinking and problem-solving skills. Master’s graduate major in web and mobile application development. Industrial experience with PHP Laravel Framework, Ecwid and react framework. Also, worked with restful API’s, AWS and CI/CD pipelines. A continuous fast learner, eager to learn and further develop my career.</p>
 
                                 </div></div></div></div>
               {/* <div className="row">

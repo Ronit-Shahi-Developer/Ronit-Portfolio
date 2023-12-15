@@ -29,6 +29,7 @@ function App() {
           <Route exact path="/edu" component={EducationPage} />
           <Route exact path="/skill" component={SkillPage} />
           <Route exact path="/portfolio" component={PortfolioPage} />
+          <Route exact path="/Ronit-Portfolio" component={PortfolioPage} />
           <Route exact path="/contact" component={Profilepage} />
 
           {/* <Route exact path="/product/:id" component={ProductScreen} />
