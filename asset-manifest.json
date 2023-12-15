@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.3f695030.chunk.css",
-    "main.js": "/portfolio/static/js/main.b25e2b4f.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.b25e2b4f.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.e6de5893.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.e6de5893.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/portfolio/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.6b31ff11.chunk.js": "/portfolio/static/js/2.6b31ff11.chunk.js",
-    "static/js/2.6b31ff11.chunk.js.map": "/portfolio/static/js/2.6b31ff11.chunk.js.map",
-    "static/js/3.4b9a1c4d.chunk.js": "/portfolio/static/js/3.4b9a1c4d.chunk.js",
-    "static/js/3.4b9a1c4d.chunk.js.map": "/portfolio/static/js/3.4b9a1c4d.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/portfolio/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.3f695030.chunk.css.map": "/portfolio/static/css/main.3f695030.chunk.css.map",
-    "static/js/2.6b31ff11.chunk.js.LICENSE.txt": "/portfolio/static/js/2.6b31ff11.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/portfolio/static/media/background.24a1f6ba.jpg",
-    "static/media/edu.cf319bfc.png": "/portfolio/static/media/edu.cf319bfc.png",
-    "static/media/movier.cae1f0d4.PNG": "/portfolio/static/media/movier.cae1f0d4.PNG"
+    "main.css": "/Ronit-Portfolio/static/css/main.17b719b7.chunk.css",
+    "main.js": "/Ronit-Portfolio/static/js/main.69c84562.chunk.js",
+    "main.js.map": "/Ronit-Portfolio/static/js/main.69c84562.chunk.js.map",
+    "runtime-main.js": "/Ronit-Portfolio/static/js/runtime-main.ea42374e.js",
+    "runtime-main.js.map": "/Ronit-Portfolio/static/js/runtime-main.ea42374e.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Ronit-Portfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.84cd36e6.chunk.js": "/Ronit-Portfolio/static/js/2.84cd36e6.chunk.js",
+    "static/js/2.84cd36e6.chunk.js.map": "/Ronit-Portfolio/static/js/2.84cd36e6.chunk.js.map",
+    "static/js/3.03d6fc1f.chunk.js": "/Ronit-Portfolio/static/js/3.03d6fc1f.chunk.js",
+    "static/js/3.03d6fc1f.chunk.js.map": "/Ronit-Portfolio/static/js/3.03d6fc1f.chunk.js.map",
+    "index.html": "/Ronit-Portfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Ronit-Portfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.17b719b7.chunk.css.map": "/Ronit-Portfolio/static/css/main.17b719b7.chunk.css.map",
+    "static/js/2.84cd36e6.chunk.js.LICENSE.txt": "/Ronit-Portfolio/static/js/2.84cd36e6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Ronit-Portfolio/static/media/background.24a1f6ba.jpg",
+    "static/media/edu.cf319bfc.png": "/Ronit-Portfolio/static/media/edu.cf319bfc.png",
+    "static/media/movier.cae1f0d4.PNG": "/Ronit-Portfolio/static/media/movier.cae1f0d4.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.e6de5893.js",
+    "static/js/runtime-main.ea42374e.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.6b31ff11.chunk.js",
-    "static/css/main.3f695030.chunk.css",
-    "static/js/main.b25e2b4f.chunk.js"
+    "static/js/2.84cd36e6.chunk.js",
+    "static/css/main.17b719b7.chunk.css",
+    "static/js/main.69c84562.chunk.js"
   ]
 }
