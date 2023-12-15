@@ -16,27 +16,55 @@ const ExperiencePage = () => {
             <div className="col-lg-6 m-15px-tb">
               <div className="resume-box">
                 <ul>
+
+
+                <li>
+                    <div className="icon">
+                      <i className="fas fa-user-graduate"></i>
+                    </div>
+                    <span className="time">03/2022 - 11/2023</span>
+                    <h5>Full Stack Developer - Get Messiah Pty. Ltd. </h5>
+                    <p>
+                      - Laravel, React, Tailwind, Docker, AWS.
+                      <br />
+                      - Meta, Google, LinkedIn, and TikTok’s marketing APIs.<br />
+                      - Utilized Facebook's Pixel and Conversions API (CAPI).<br />
+                      - Stripe billing subscription using Laravel Cashier. <br />
+                      - Stripe webhooks <br />
+                      - ChatGPT API for analysis and generating reports. <br />
+
+                    </p>
+                  </li>
+
+                <li>
+                    <div className="icon">
+                      <i className="fas fa-user-graduate"></i>
+                    </div>
+                    <span className="time">10/2021 - 01/2022</span>
+                    <h5>Web Developer (Intern) - NSW Liquor Logistics Pty. Ltd. </h5>
+                    <p>
+                      - Built company site.
+                      <br />
+                      - Used ecwid platform.<br />
+                      - Contributed to development and maintenance of website.<br />
+                    </p>
+                  </li>
+
                   <li>
                     <div className="icon">
                       <i className="fas fa-user-graduate"></i>
                     </div>
                     <span className="time">09/2017 - 05/2018</span>
-                    <h5>LARAVEL DEVELOPER - Applopers Pvt. Ltd</h5>
+                    <h5>Laravel Developer (Intern + Placement) - Applopers Pvt. Ltd</h5>
                     <p>
-                      - Design and development of client and server database
-                      applications.
+                      - Gained proficiency in the Laravel framework.
                       <br />
-                      - Maintained and updated HTML/CSS templates on a regular
-                      basis and as required. <br />
-                      - Assisted in planning and implementing dynamic and online
-                      electronic commerce applications. <br />
-                      - Conducted layout design and construction for a variety
-                      of websites as assigned.
-                      <br /> - One of the site that I worked/assisted on :
-                      https://www.babyshopnepal.com/
+                      - Implemented user-centric features across projects. <br />
+                      - GitHub as version control.<br />
+                      <br /> 
                     </p>
                   </li>
-                  <li>
+                  {/* <li>
                     <div className="icon">
                       <i className="fas fa-user-graduate"></i>
                     </div>
@@ -53,7 +81,7 @@ const ExperiencePage = () => {
                       registration.
                       <br /> - Used Laravel framework to built the system.
                     </p>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>
@@ -64,7 +92,7 @@ const ExperiencePage = () => {
                     <div className="icon">
                       <i className="fas fa-briefcase"></i>
                     </div>
-                    <span className="time">01/2021 - Present</span>
+                    <span className="time">01/2021 - 01/2022</span>
                     <h5>BAKER HAND - Sonoma Bakery </h5>
                     <p>
                       - Dusting <br />
@@ -78,10 +106,12 @@ const ExperiencePage = () => {
                     <div className="icon">
                       <i className="fas fa-briefcase"></i>
                     </div>
-                    <span className="time">2018 - 07/2021</span>
+                    <span className="time">07/2018 - 07/2021</span>
                     <h5>CAFE ALL ROUNDER - Cassandra's on the Park</h5>
                     <p>
-                    - Taking orders, serving, food preparation, making smoothies.
+                    - Taking orders  <br />
+                    - Serving  <br />
+                    - Food preparation, making smoothies. <br />
 
                     </p>
                   </li>

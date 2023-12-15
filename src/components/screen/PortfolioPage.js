@@ -1,5 +1,5 @@
 import React from "react";
-import movier from "../../movier.PNG";
+import movier from "../../restore.png";
 import { Link } from "react-router-dom";
 
 const PortfolioPage = () => {
@@ -10,13 +10,7 @@ const PortfolioPage = () => {
           <div className="col-lg-6">
             <div className="section-title">
               <h2>Portfolio</h2>
-              <p>
-                <strong>Note:</strong> Page might take little time to load at
-                first.
-                <br />
-                <strong>Username:</strong> ronyt <br />
-                <strong>Password:</strong> 123456
-              </p>
+      
             </div>
           </div>
         </div>
@@ -28,33 +22,43 @@ const PortfolioPage = () => {
             <div class="card">
               <Link
                 target="_blank"
-                to={{ pathname: "https://musing-poincare-b6d9b6.netlify.app/" }}
+                to={{ pathname: "https://apii.fly.dev/catalog" }}
               >
                 <img src={movier} alt="" class="card-img-top" />
               </Link>
               <div class="card-body">
-                <h5 class="card-title">Movie Rater</h5>
-                <p class="card-text">
-                  <strong>Framework:</strong>React, Django, Bootstrap
-                  <br />
-                  <br />A simplification of movie streamming applications. Focus
-                  on the use and understanding of some crucial react/django
-                  concepts and libraries.
-                </p>
-                <Link
+              <Link
                   target="_blank"
                   to={{
-                    pathname: "https://github.com/Ronit-Shahi-Developer/Ronit-Portfolio",
+                    pathname: "https://apii.fly.dev/catalog",
                   }}
                   className="btn btn-outline-success btn-sm"
                 >
                   <span
                     class="iconify"
-                    data-icon="codicon:github-inverted"
+                    data-icon="codicon:eye"
                     data-inline="false"
                   ></span>{" "}
-                  GitHub
+                 Live Preview
                 </Link>
+                <hr></hr>
+                <h5 class="card-title">ReStore</h5>
+                <p class="card-text">
+                  <strong>Framework:</strong> React, .Net, Material UI
+                  <br />
+                  <br />
+                  - RestFull API<br />
+                  - React Router<br />
+                  - Error Handling<br />
+                  - Shopping Cart<br />
+                  - Redux <br />
+                  - Paging, sorting, filtering<br />
+                  - User Idenity<br />
+                  - Checkout Feature<br />
+                  - Stripe Payment feature <br />
+                  
+                </p>
+               
               </div>
             </div>
           </div>

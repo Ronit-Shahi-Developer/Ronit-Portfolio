@@ -31,12 +31,12 @@ const SkillPage = () => {
                         <tbody>
                             <tr>
                                 <th scope="row" class="col-4">Programming Languages: </th>
-                                <td class="col-8">C, PHP, HTML, JAVA, PYTHON, CSS, JAVASCRIPT</td>
+                                <td class="col-8">C#, PHP, HTML, PYTHON, CSS, JAVASCRIPT</td>
                                 
                             </tr>
                             <tr>
                                 <th scope="row" class="col-4">Framework: </th>
-                                <td class="col-8"> Laravel, Django, React, Bootstrap, Express</td>
+                                <td class="col-8"> .NetCore, Laravel, Django, React, Bootstrap, Material-UI</td>
                                 
                             </tr>
                             <tr>

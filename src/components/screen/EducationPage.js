@@ -37,11 +37,10 @@ const EducationPage = () => {
                       <i className="fas fa-user-graduate"></i>
                     </div>
                     <span className="time">08/2013 - 11/2017</span>
-                    <h5>Bachelor in Information
-MANAGEMENT - NCCS</h5>
+                    <h5>Bachelor in Information Management - Tribhuvan University</h5>
                     <p>
                         <strong>- Key areas:</strong><br />
-                    Operating System, Computer hardware and Software, C++, Java, PHP, ASP.NET and Python
+                    Operating System, Computer hardware and Software, C++, Java, PHP, Python
                     </p>
                   </li>
                 </ul>
